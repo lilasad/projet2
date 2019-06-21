@@ -1,0 +1,10 @@
+.banner {
+	background-image: url('images/flight.jpg');
+	background-size: cover;
+	height: 50vh;
+    background-position: bottom;
+}
+.button {
+	margin-top: 200px;
+	padding-left: 400px;
+}
